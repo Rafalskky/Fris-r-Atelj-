@@ -8,7 +8,7 @@ Frisör Ateljé is a freelance one-page web app. The design and look of the webs
 
 2. **Auto-scroll Functionality:** Implemented auto-scroll function on the menu for enhanced user experience and navigation efficiency.
 
-3. **Google Maps Integration:** Integrated Google Maps for location-based information, potentially aiding visitors in finding the physical location of the freelancer's business.
+3. **Google Maps Integration:** Integrated Google Maps for location-based information, potentially aiding visitors in finding the physical location of the business.
 
 ## Technologies Used:
 
